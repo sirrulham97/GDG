@@ -1,0 +1,29 @@
+
+p {
+    color: #333;
+    font-size: 16px;
+    text-align: left;
+}
+
+
+#title {
+    color: darkblue;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.box {
+    background-color: #f0f8ff;
+    color: #000;
+    padding: 20px;       
+    margin: 20px;        
+    border: 2px solid #007acc; 
+    text-align: center;
+
+    background-image: url("me.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
